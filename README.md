@@ -4,7 +4,10 @@ Example for confidence-rich mutual information (CRMI)
 ## Readme
 The previous MATLAB codes for confidence-rich mapping (CRM) scheme is here [[Link](https://github.com/Shepherd-Gregory/confidence_rich_mapping)].
 
-This MATLAB codes is for CRMI based on the CRM. For more details, please refer to the following papers.
+This MATLAB codes is for CRMI based on the CRM. For more details, please see the following papers.
+
+If you find this package useful for your research, please consider citing our papers:
+
 
 ```
 @Article{yang2021crmi,
@@ -21,7 +24,7 @@ This MATLAB codes is for CRMI based on the CRM. For more details, please refer t
 @article{xu2022confidence,
   title={Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration},
   author={Xu, Yang and Zheng, Ronghao and Zhang, Senlin and Liu, Meiqin},
-  journal={arXiv preprint arXiv:2202.09631},
+  journal={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2022}
 }
 ```
